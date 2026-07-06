@@ -45,21 +45,17 @@ Three-node simulation lab:
 
 ## Repo structure
 
-```
-## Repo structure
-
+​```
 soc-l1-wazuh-assessment/
 ├── README.md                     # this file
 ├── attack-timeline.md            # phase-by-phase attack chain
 ├── mitre-attack-mapping.md       # MITRE ATT&CK coverage table
 ├── recommendations.md            # phased roadmap to Level 4+ SOC maturity
 └── SOC_l1_WAZUH.pdf              # original full report
+​```
 
-See attack-timeline.md, mitre-attack-mapping.md, and recommendations.md for the detailed breakdown, or SOC_l1_WAZUH.pdf for the full assessment as presented.
+See `attack-timeline.md`, `mitre-attack-mapping.md`, and `recommendations.md` for the detailed breakdown, or `SOC_l1_WAZUH.pdf` for the full assessment as presented.
 
-See the [`docs/`](./docs) folder for the detailed breakdown, or the [original PDF report](./reports/SOC_l1_WAZUH.pdf) for the full assessment as presented.
-
----
 
 ## Key findings
 
